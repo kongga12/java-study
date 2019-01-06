@@ -1,5 +1,7 @@
 package main.java;
 
+import main.java.FruitSeller;
+
 class FruitSeller {
 	int numOfApple=20;
 	int myMoney=0;
